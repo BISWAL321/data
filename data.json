@@ -8,14 +8,14 @@
     "receiverName": "Veena",
     "amount": "₹40000",
     "upi": "XXXXXXXXXX4373@IPOS0000001.ifsc.npci",
-    "date": "Today, 2:31 PM",
+    "date": "Today, 2:21 PM",
     "bank": "xxxx 0558",
     "upiTxnId": "137283103045",
     "comment": "UPI",
     "fcId": "AXIFRCdfa9847ff4e6294e1a9ab09ac3e2c"
   },
   "transactions": [
-   { "initials": "V", "title": "Paid To VEENA", "amount": "- ₹40000", "time": "Today, 2:31 PM", "direction": "Paid from" },
+   { "initials": "V", "title": "Paid To VEENA", "amount": "- ₹40000", "time": "Today, 2:21 PM", "direction": "Paid from" },
     
     { "initials": "KK", "title": "Received From Kazi Kumar Yadav", "amount": "+ ₹200", "time": "29 Oct, 8:26 PM", "direction": "Added to" },
     { "initials": "LB", "title": "Received From Lipun Barathi", "amount": "+ ₹500", "time": "29 Oct, 8:25 PM", "direction": "Added to" },
