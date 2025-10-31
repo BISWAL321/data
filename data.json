@@ -1,8 +1,8 @@
 {
   "user": {
-    "name": "Rajesh",
-    "number": "+91 7854919692",
-    "upi": "biswal344@freecharge"
+    "name": "Dileswar",
+    "number": "+91 9937057751",
+    "upi": "sbiswal123@freecharge"
   },
   "txndetails": {
     "receiverName": "Bhavesh",
@@ -17,12 +17,12 @@
   "transactions": [
    { "initials": "B", "title": "Paid To Bhavesh", "amount": "- ₹50000", "time": "Today, 9:32 PM", "direction": "Paid from" },
     
-   { "initials": "TN", "title": "Received From Tarun Nair", "amount": "+ ₹400", "time": "30 Oct, 8:40 PM", "direction": "Added to" },
-  { "initials": "VP", "title": "Received From Varsha Patel", "amount": "+ ₹200", "time": "30 Oct, 7:28 PM", "direction": "Added to" },
-  { "initials": "RK", "title": "Received From Ramesh Khanna", "amount": "+ ₹100", "time": "30 Oct, 6:45 PM", "direction": "Added to" },
-  { "initials": "AM", "title": "Received From Aditi Mehta", "amount": "+ ₹300", "time": "30 Oct, 5:17 PM", "direction": "Added to" },
-  { "initials": "SS", "title": "Received From Shubham Sinha", "amount": "+ ₹500", "time": "30 Oct, 4:58 PM", "direction": "Added to" },
-  { "initials": "PR", "title": "Received From Priya Rathi", "amount": "+ ₹200", "time": "30 Oct, 4:22 PM", "direction": "Added to" }
+{ "initials": "TN", "title": "Received From Tarun Nair", "amount": "+ ₹400", "time": "30 Sept, 8:40 PM", "direction": "Added to" },
+{ "initials": "VP", "title": "Received From Varsha Patel", "amount": "+ ₹200", "time": "29 Sept, 7:28 PM", "direction": "Added to" },
+{ "initials": "RK", "title": "Received From Ramesh Khanna", "amount": "+ ₹100", "time": "29 Sept, 6:45 PM", "direction": "Added to" },
+{ "initials": "AM", "title": "Received From Aditi Mehta", "amount": "+ ₹300", "time": "28 Sept, 5:17 PM", "direction": "Added to" },
+{ "initials": "SS", "title": "Received From Shubham Sinha", "amount": "+ ₹500", "time": "28 Sept, 4:58 PM", "direction": "Added to" },
+{ "initials": "PR", "title": "Received From Priya Rathi", "amount": "+ ₹200", "time": "28 Sept, 4:22 PM", "direction": "Added to" }
   
   ]
 }
