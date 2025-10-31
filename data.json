@@ -8,14 +8,14 @@
     "receiverName": "Bhavesh",
     "amount": "₹45000",
     "upi": "6523911846663006@cnrb",
-    "date": "Today, 4:35 PM",
+    "date": "Today, 4:45 PM",
     "bank": "xxxx 4390",
-    "upiTxnId": "137283103045",
+    "upiTxnId": "260034946534",
     "comment": "CH2025103116253900753",
     "fcId": "CH2025103116253900753"
   },
   "transactions": [
-   { "initials": "B", "title": "Paid To Bhavesh", "amount": "- ₹45000", "time": "Today, 4:35 PM", "direction": "Paid from" },
+   { "initials": "B", "title": "Paid To Bhavesh", "amount": "- ₹45000", "time": "Today, 4:45 PM", "direction": "Paid from" },
     
     { "initials": "RS", "title": "Received From Rohan Sharma", "amount": "+ ₹200", "time": "30 Oct, 9:42 PM", "direction": "Added to" },
   { "initials": "NV", "title": "Received From Neha Verma", "amount": "+ ₹500", "time": "30 Oct, 7:58 PM", "direction": "Added to" },
