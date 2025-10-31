@@ -1,21 +1,21 @@
 {
   "user": {
-    "name": "Akash",
-    "number": "+91 6370701237",
-    "upi": "akash15@freecharge"
+    "name": "Surath",
+    "number": "+91 6372379696",
+    "upi": "sbiswal9696@freecharge"
   },
   "txndetails": {
-    "receiverName": "Sambit Kumar Sahoo",
-    "amount": "₹30000",
-    "upi": "9178770733@kotak811",
-    "date": "Today, 12:31 PM",
-    "bank": "xxxx 8334",
-    "upiTxnId": "123686753045",
-    "comment": "CH2025103112231101131",
-    "fcId": "CH2025103112231101131"
+    "receiverName": "Veena",
+    "amount": "₹40000",
+    "upi": "XXXXXXXXXX4373@IPOS0000001.ifsc.npci",
+    "date": "Today, 2:31 PM",
+    "bank": "xxxx 0558",
+    "upiTxnId": "137283103045",
+    "comment": "UPI",
+    "fcId": "AXIFRCdfa9847ff4e6294e1a9ab09ac3e2c"
   },
   "transactions": [
-   { "initials": "SK", "title": "Paid To Sambit Kumar Sahoo", "amount": "- ₹30000", "time": "Today, 12:31 PM", "direction": "Paid from" },
+   { "initials": "V", "title": "Paid To VEENA", "amount": "- ₹40000", "time": "Today, 2:31 PM", "direction": "Paid from" },
     
     { "initials": "KK", "title": "Received From Kundan Kumar Yadav", "amount": "+ ₹200", "time": "29 Oct, 8:26 PM", "direction": "Added to" },
     { "initials": "LB", "title": "Received From Lingam Barathi", "amount": "+ ₹500", "time": "29 Oct, 8:25 PM", "direction": "Added to" },
