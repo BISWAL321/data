@@ -22,21 +22,7 @@
   { "initials": "RK", "title": "Received From Ramesh Khanna", "amount": "+ ₹100", "time": "30 Oct, 6:45 PM", "direction": "Added to" },
   { "initials": "AM", "title": "Received From Aditi Mehta", "amount": "+ ₹300", "time": "30 Oct, 5:17 PM", "direction": "Added to" },
   { "initials": "SS", "title": "Received From Shubham Sinha", "amount": "+ ₹500", "time": "30 Oct, 4:58 PM", "direction": "Added to" },
-  { "initials": "PR", "title": "Received From Priya Rathi", "amount": "+ ₹200", "time": "30 Oct, 4:22 PM", "direction": "Added to" },
-  { "initials": "VG", "title": "Received From Vikas Gupta", "amount": "+ ₹100", "time": "30 Oct, 3:56 PM", "direction": "Added to" },
-  { "initials": "DL", "title": "Received From Deepali Lal", "amount": "+ ₹200", "time": "29 Oct, 9:40 PM", "direction": "Added to" },
-  { "initials": "AK", "title": "Paid To Arjun Kumar", "amount": "- ₹7000", "time": "29 Oct, 8:57 PM", "direction": "Paid from" },
-  { "initials": "MR", "title": "Received From Manoj Reddy", "amount": "+ ₹900", "time": "29 Oct, 8:45 PM", "direction": "Added to" },
-  { "initials": "KD", "title": "Received From Kiran Das", "amount": "+ ₹200", "time": "29 Oct, 8:05 PM", "direction": "Added to" },
-  { "initials": "NS", "title": "Received From Neeraj Soni", "amount": "+ ₹100", "time": "29 Oct, 7:55 PM", "direction": "Added to" },
-  { "initials": "PS", "title": "Received From Pankaj Sharma", "amount": "+ ₹5000", "time": "29 Oct, 6:40 PM", "direction": "Added to" },
-  { "initials": "GB", "title": "Received From Gaurav Bansal", "amount": "+ ₹500", "time": "29 Oct, 6:12 PM", "direction": "Added to" },
-  { "initials": "RH", "title": "Received From Ruchi Handa", "amount": "+ ₹300", "time": "29 Oct, 5:54 PM", "direction": "Added to" },
-  { "initials": "DC", "title": "Received From Danish Chaudhary", "amount": "+ ₹200", "time": "28 Oct, 10:15 PM", "direction": "Added to" },
-  { "initials": "AP", "title": "Received From Anil Purohit", "amount": "+ ₹100", "time": "28 Oct, 9:48 PM", "direction": "Added to" },
-  { "initials": "SJ", "title": "Received From Sakshi Jain", "amount": "+ ₹300", "time": "28 Oct, 8:59 PM", "direction": "Added to" },
-  { "initials": "YG", "title": "Received From Yash Gupta", "amount": "+ ₹500", "time": "28 Oct, 7:50 PM", "direction": "Added to" },
-  { "initials": "NK", "title": "Received From Nitin Khurana", "amount": "+ ₹200", "time": "28 Oct, 6:20 PM", "direction": "Added to" }
+  { "initials": "PR", "title": "Received From Priya Rathi", "amount": "+ ₹200", "time": "30 Oct, 4:22 PM", "direction": "Added to" }
   
   ]
 }
