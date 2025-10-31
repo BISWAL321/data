@@ -5,17 +5,17 @@
     "upi": "akash15@freecharge"
   },
   "txndetails": {
-    "receiverName": "Arsalan Hyderl",
-    "amount": "₹20000",
-    "upi": "hyderarsalan122-2@oksbi",
-    "date": "Today, 12:31 PM",
+    "receiverName": "Sambit Kumar Sahoo",
+    "amount": "₹30000",
+    "upi": "9178770733@kotak811",
+    "date": "Today, 12:38 PM",
     "bank": "xxxx 8334",
-    "upiTxnId": "530423443141",
-    "comment": "CH2025103106043200883",
-    "fcId": "CH2025103106043200883"
+    "upiTxnId": "123686753045",
+    "comment": "CH2025103112231101131",
+    "fcId": "CH2025103112231101131"
   },
   "transactions": [
-   { "initials": "DB", "title": "Paid To Dusamanta Biswal", "amount": "- ₹10000", "time": "Today, 12:31 PM", "direction": "Paid from" },
+   { "initials": "SK", "title": "Paid To Sambit Kumar Sahoo", "amount": "- ₹30000", "time": "Today, 12:38 PM", "direction": "Paid from" },
     
     { "initials": "KK", "title": "Received From Kundan Kumar Yadav", "amount": "+ ₹200", "time": "29 Oct, 8:26 PM", "direction": "Added to" },
     { "initials": "LB", "title": "Received From Lingam Barathi", "amount": "+ ₹500", "time": "29 Oct, 8:25 PM", "direction": "Added to" },
