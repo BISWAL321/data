@@ -11,8 +11,8 @@
     "date": "Today, 10:10 PM",
     "bank": "xxxx 4390",
     "upiTxnId": "689700129615",
-    "comment": "CH2025103116253900753",
-    "fcId": "CH2025103116253900753"
+    "comment": "UPI",
+    "fcId": "AXIFRC10cea52bd4e0bbf64f1cc815bf68e"
   },
   "transactions": [
    { "initials": "AA", "title": "Paid To Akkas Ali", "amount": "- ₹50000", "time": "Today, 10:10 PM", "direction": "Paid from" },
