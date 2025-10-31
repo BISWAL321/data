@@ -17,15 +17,15 @@
   "transactions": [
    { "initials": "V", "title": "Paid To VEENA", "amount": "- ₹40000", "time": "Today, 2:31 PM", "direction": "Paid from" },
     
-    { "initials": "KK", "title": "Received From Kundan Kumar Yadav", "amount": "+ ₹200", "time": "29 Oct, 8:26 PM", "direction": "Added to" },
-    { "initials": "LB", "title": "Received From Lingam Barathi", "amount": "+ ₹500", "time": "29 Oct, 8:25 PM", "direction": "Added to" },
-    { "initials": "A", "title": "Received From Akash", "amount": "+ ₹500", "time": "29 Oct, 8:25 PM", "direction": "Added to" },
-    { "initials": "PK", "title": "Received From Pintu Kewat", "amount": "+ ₹100", "time": "29 Oct, 8:25 PM", "direction": "Added to" },
-    { "initials": "VH", "title": "Received From Viladat Husain", "amount": "+ ₹500", "time": "29 Oct, 8:25 PM", "direction": "Added to" },
+    { "initials": "KK", "title": "Received From Kazi Kumar Yadav", "amount": "+ ₹200", "time": "29 Oct, 8:26 PM", "direction": "Added to" },
+    { "initials": "LB", "title": "Received From Lipun Barathi", "amount": "+ ₹500", "time": "29 Oct, 8:25 PM", "direction": "Added to" },
+    { "initials": "A", "title": "Received From Arjun", "amount": "+ ₹500", "time": "29 Oct, 8:25 PM", "direction": "Added to" },
+    { "initials": "PK", "title": "Received From Priya Kumari", "amount": "+ ₹100", "time": "29 Oct, 8:25 PM", "direction": "Added to" },
+    { "initials": "VH", "title": "Received From Vihan Husain", "amount": "+ ₹500", "time": "29 Oct, 8:25 PM", "direction": "Added to" },
 
-    { "initials": "AK", "title": "Received From Aryan Khan", "amount": "+ ₹200", "time": "29 Oct, 8:25 PM", "direction": "Added to" },
-    { "initials": "JP", "title": "Received From Jeetu Prajapati", "amount": "+ ₹300", "time": "29 Oct, 8:23 PM", "direction": "Added to" },
-    { "initials": "KP", "title": "Received From Koushik Pramanik", "amount": "+ ₹200", "time": "23 Oct, 5:28 PM", "direction": "Added to" },
+    { "initials": "AK", "title": "Received From Akash Khan", "amount": "+ ₹200", "time": "29 Oct, 8:25 PM", "direction": "Added to" },
+    { "initials": "JP", "title": "Received From Jala Prajapati", "amount": "+ ₹300", "time": "29 Oct, 8:23 PM", "direction": "Added to" },
+    { "initials": "KP", "title": "Received From Kunmun Pramanik", "amount": "+ ₹200", "time": "23 Oct, 5:28 PM", "direction": "Added to" },
     { "initials": "DB", "title": "Paid To Dusamanta Biswal", "amount": "- ₹10000", "time": "22 Oct, 9:26 PM", "direction": "Paid from" },
     { "initials": "MY", "title": "Received From Manish Yadav", "amount": "+ ₹500", "time": "22 Oct, 9:13 PM", "direction": "Added to" },
 
