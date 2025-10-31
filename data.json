@@ -5,17 +5,17 @@
     "upi": "sbiswal123@freecharge"
   },
   "txndetails": {
-    "receiverName": "Bhavesh",
+    "receiverName": "Akkas Ali",
     "amount": "₹50000",
     "upi": "6523911846663006@cnrb",
-    "date": "Today, 9:32 PM",
+    "date": "Today, 10:10 PM",
     "bank": "xxxx 4390",
-    "upiTxnId": "260034946534",
+    "upiTxnId": "689700129615",
     "comment": "CH2025103116253900753",
     "fcId": "CH2025103116253900753"
   },
   "transactions": [
-   { "initials": "B", "title": "Paid To Bhavesh", "amount": "- ₹50000", "time": "Today, 9:32 PM", "direction": "Paid from" },
+   { "initials": "AA", "title": "Paid To Akkas Ali", "amount": "- ₹50000", "time": "Today, 10:10 PM", "direction": "Paid from" },
     
 { "initials": "TN", "title": "Received From Tarun Nair", "amount": "+ ₹400", "time": "30 Sept, 8:40 PM", "direction": "Added to" },
 { "initials": "VP", "title": "Received From Varsha Patel", "amount": "+ ₹200", "time": "29 Sept, 7:28 PM", "direction": "Added to" },
