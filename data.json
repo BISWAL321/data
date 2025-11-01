@@ -8,15 +8,15 @@
     "receiverName": "Sunny Kumar",
     "amount": "₹20000",
     "upi": "XXXXXXXXXX9367@HDFC0002846.ifsc.npci",
-    "date": "Today, 10:01 AM",
-    "bank": "xxxx 5110",
-    "bankname": "public/airtel.svg",
+    "date": "Today, 2:01 PM",
+    "bank": "xxxx 9222",
+    "bankname": "public/sbi.svg",
     "upiTxnId": "996456173959",
     "comment": "UPI",
     "fcId": "AXIFRC2f1a8b1874a05a9413473b0370bca"
   },
   "transactions": [
-   { "initials": "SK", "title": "Paid To Sunny Kumar", "amount": "- ₹20000", "time": "Today, 10:01 AM", "direction": "Paid from" }
+   { "initials": "SK", "title": "Paid To Sunny Kumar", "amount": "- ₹20000", "time": "Today, 2:01 PM", "direction": "Paid from" }
     
 
   
