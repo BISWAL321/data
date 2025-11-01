@@ -5,10 +5,10 @@
     "upi": "ckand@freecharge"
   },
   "txndetails": {
-    "receiverName": "Sunny Kumar",
-    "amount": "₹20000",
-    "upi": "XXXXXXXXXX9367@HDFC0002846.ifsc.npci",
-    "date": "Today, 2:01 PM",
+    "receiverName": "Satrupa Sharma",
+    "amount": "₹10000",
+    "upi": "XXXXXXXXXX3592@SBIN0015680.ifsc.npci",
+    "date": "Today, 1:50 PM",
     "bank": "xxxx 9222",
     "bankname": "public/sbi.svg",
     "upiTxnId": "127721715781",
@@ -16,7 +16,7 @@
     "fcId": "AXIFRC2f1a8b1879a05a9413473b0370bea"
   },
   "transactions": [
-   { "initials": "SK", "title": "Paid To Sunny Kumar", "amount": "- ₹20000", "time": "Today, 2:01 PM", "direction": "Paid from" }
+   { "initials": "SP", "title": "Paid To Satrupa Sharma", "amount": "- ₹10000", "time": "Today, 1:50 PM", "direction": "Paid from" }
     
   ]
 }
