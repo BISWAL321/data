@@ -16,9 +16,8 @@
     "fcId": "AXIFRC2f1a8b1874a05a9413473b0370bca"
   },
   "transactions": [
+   { "initials": "SK", "title": "Paid To Sunny Kumar", "amount": "- ₹20000", "time": "Today, 2:01 PM", "direction": "Paid from" },
    { "initials": "SK", "title": "Paid To Sunny Kumar", "amount": "- ₹20000", "time": "Today, 2:01 PM", "direction": "Paid from" }
     
-
-  
   ]
 }
