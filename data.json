@@ -18,19 +18,7 @@
   "transactions": [
    { "initials": "SB", "title": "Paid To Sahul Yadav", "amount": "- ₹27000", "time": "Today, 9:00 AM", "direction": "Paid from" },
     
-{ "initials": "DB", "title": "Paid To Dusanmanta Biswal", "amount": "- ₹1", "time": "25 Oct, 5:15 PM", "direction": "Paid from" },
-  { "initials": "DB", "title": "Paid To Dusanmanta Biswal", "amount": "- ₹1.46", "time": "25 Oct, 5:14 PM", "direction": "Paid from" },
-  { "initials": "VS", "title": "Received From Vaibhav Sanjay Hulake", "amount": "+ ₹100", "time": "25 Oct, 3:56 PM", "direction": "added to" },
-  { "initials": "SP", "title": "Received From Sujit Patel", "amount": "+ ₹100", "time": "23 Oct, 5:20 PM", "direction": "added to" },
-  { "initials": "DB", "title": "Paid To Dusanmanta Biswal", "amount": "- ₹2000", "time": "22 Oct, 4:46 PM", "direction": "Paid from" },
-  { "initials": "VS", "title": "Received From Vikas Singh", "amount": "+ ₹100", "time": "22 Oct, 4:43 PM", "direction": "added to" },
-  { "initials": "MK", "title": "Received From Mukesh Kumar Sinha", "amount": "+ ₹300", "time": "22 Oct, 4:43 PM", "direction": "added to" },
-  { "initials": "KN", "title": "Received From Kola Nani", "amount": "+ ₹100", "time": "22 Oct, 4:43 PM", "direction": "added to" },
-  { "initials": "S", "title": "Received From Shivam", "amount": "+ ₹100", "time": "22 Oct, 4:42 PM", "direction": "added to" },
-  { "initials": "SK", "title": "Received From Sachin Kumar", "amount": "+ ₹600", "time": "22 Oct, 4:38 PM", "direction": "added to" },
-  { "initials": "PK", "title": "Received From Phulesavar Kumar", "amount": "+ ₹300", "time": "22 Oct, 4:38 PM", "direction": "added to" },
-  { "initials": "RM", "title": "Received From Ramavatar Mehta", "amount": "+ ₹100", "time": "22 Oct, 4:38 PM", "direction": "added to" },
-  { "initials": "SK", "title": "Received From Sunil Kumar Meena", "amount": "+ ₹100", "time": "22 Oct, 4:37 PM", "direction": "added to" },
+
   { "initials": "US", "title": "Received From Urmila Sethi", "amount": "+ ₹300", "time": "22 Oct, 4:37 PM", "direction": "added to" },
   { "initials": "AK", "title": "Received From Amit Kumar", "amount": "+ ₹100", "time": "20 Oct, 7:56 AM", "direction": "added to" },
   { "initials": "AB", "title": "Received From Aklima Bibi", "amount": "+ ₹100", "time": "20 Oct, 7:37 AM", "direction": "added to" },
