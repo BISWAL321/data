@@ -1,22 +1,22 @@
 {
   "user": {
-    "name": "Biswal",
-    "number": "+91 7978705110",
-    "upi": "biswal2025@freecharge"
+    "name": "Suratha",
+    "number": "+91 6372379696",
+    "upi": "sbiswal123@freecharge"
   },
   "txndetails": {
-    "receiverName": "Sanket Babarao Raut",
+    "receiverName": "Sahul Yadav",
     "amount": "₹41000",
-    "upi": "XXXXXXXXXX6091@CBIN0281599.ifsc.npci",
-    "date": "Today, 7:30 AM",
-    "bank": "xxxx 5110",
-    "bankname": "public/airtel.svg",
-    "upiTxnId": "246465833055",
+    "upi": "XXXXXXXXXX2950@UBIN0546615.ifsc.npci",
+    "date": "Today, 9:00 AM",
+    "bank": "xxxx 5354",
+    "bankname": "public/sbi.svg",
+    "upiTxnId": "939850567098",
     "comment": "UPI",
     "fcId": "AXIFRC2f1a8b1874a05a9413473b0370bca"
   },
   "transactions": [
-   { "initials": "SB", "title": "Paid To Sanket Babarao Raut", "amount": "- ₹41000", "time": "Today, 7:30 AM", "direction": "Paid from" },
+   { "initials": "SB", "title": "Paid To Sahul Yadav", "amount": "- ₹27000", "time": "Today, 9:00 AM", "direction": "Paid from" },
     
 { "initials": "DB", "title": "Paid To Dusanmanta Biswal", "amount": "- ₹1", "time": "25 Oct, 5:15 PM", "direction": "Paid from" },
   { "initials": "DB", "title": "Paid To Dusanmanta Biswal", "amount": "- ₹1.46", "time": "25 Oct, 5:14 PM", "direction": "Paid from" },
