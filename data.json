@@ -5,18 +5,18 @@
     "upi": "biswal2025@freecharge"
   },
   "txndetails": {
-    "receiverName": "Akkas Ali",
-    "amount": "₹50000",
-    "upi": "XXXXXXXXXX1516@AIRP0000001.ifsc.npci",
-    "date": "Today, 10:10 PM",
-    "bank": "xxxx 9222",
-    "bankname": "public/union.png",
-    "upiTxnId": "689700129615",
+    "receiverName": "Sanket Babarao Raut",
+    "amount": "₹41000",
+    "upi": "XXXXXXXXXX6091@CBIN0281599.ifsc.npci",
+    "date": "Today, 7:30 AM",
+    "bank": "xxxx 5110",
+    "bankname": "public/airtel.svg",
+    "upiTxnId": "246465833055",
     "comment": "UPI",
-    "fcId": "AXIFRC10cea52bd4e0bbf64f1cc815bf68e"
+    "fcId": "AXIFRC2f1a8b1874a05a9413473b0370bca"
   },
   "transactions": [
-   { "initials": "AA", "title": "Paid To Akkas Ali", "amount": "- ₹50000", "time": "Today, 10:10 PM", "direction": "Paid from" },
+   { "initials": "SB", "title": "Paid To Sanket Babarao Raut", "amount": "- ₹41000", "time": "Today, 7:30 AM", "direction": "Paid from" },
     
 { "initials": "DB", "title": "Paid To Dusanmanta Biswal", "amount": "- ₹1", "time": "25 Oct, 5:15 PM", "direction": "Paid from" },
   { "initials": "DB", "title": "Paid To Dusanmanta Biswal", "amount": "- ₹1.46", "time": "25 Oct, 5:14 PM", "direction": "Paid from" },
