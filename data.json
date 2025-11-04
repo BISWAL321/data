@@ -17,7 +17,8 @@
   },
   "transactions": [
    { "initials": "SP", "title": "Paid To Satrupa Sharma", "amount": "- ₹10000", "time": "Today, 1:50 PM", "direction": "Paid from" },
-   { "initials": "MA", "title": "Money Transferred To Bank", "amount": "- ₹1", "time": "31 Oct, 11:53 AM", "direction": "Paid from" },
+    
+   { "initials": "MA", "title": "Money Transferred To Bank", "amount": "- ₹1", "time": "31 Oct, 12:01 AM", "direction": "Paid from" },
    { "initials": "MA", "title": "Money Added", "amount": "- ₹1", "time": "31 Oct, 11:53 AM", "direction": "Paid from" },
     
    { "initials": "DB", "title": "Paid To Dusamanta Biswal", "amount": "- ₹199", "time": "23 Oct, 5:18 PM", "direction": "Paid from" },
