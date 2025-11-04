@@ -6,17 +6,17 @@
   },
   "txndetails": {
     "receiverName": "Satrupa Sharma",
-    "amount": "₹10000",
+    "amount": "₹30000",
     "upi": "XXXXXXXXXX3592@SBIN0015680.ifsc.npci",
-    "date": "Today, 1:50 PM",
-    "bank": "xxxx 9222",
+    "date": "Today, 5:10 PM",
+    "bank": "xxxx 0905",
     "bankname": "public/union.png",
-    "upiTxnId": "127721715781",
+    "upiTxnId": "147794715381",
     "comment": "UPI",
-    "fcId": "AXIFRC2f1a8b1879a05a9413473b0370bea"
+    "fcId": "AXIFRC2f194b1879a16a9413473b0370czf"
   },
   "transactions": [
-   { "initials": "SP", "title": "Paid To Satrupa Sharma", "amount": "- ₹10000", "time": "Today, 1:50 PM", "direction": "Paid from" },
+   { "initials": "SP", "title": "Paid To Satrupa Sharma", "amount": "- ₹30000", "time": "Today, 5:10 PM", "direction": "Paid from" },
     
    { "initials": "UPI", "title": "Money Transferred To Bank", "amount": "- ₹1", "time": "31 Oct, 12:01 AM", "direction": "Paid from" },
    { "initials": "UPI", "title": "Money Added", "amount": "- ₹1", "time": "31 Oct, 11:53 AM", "direction": "Paid from" },
