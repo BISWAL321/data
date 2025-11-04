@@ -5,18 +5,18 @@
     "upi": "6372747344@freecharge"
   },
   "txndetails": {
-    "receiverName": "Satrupa Sharma",
-    "amount": "₹30000",
-    "upi": "XXXXXXXXXX3592@SBIN0015680.ifsc.npci",
-    "date": "Today, 5:10 PM",
+    "receiverName": "Mohmadfaizan Abdulkaiyum Sagri",
+    "amount": "₹33000",
+    "upi": "faizanshaikh4276-5@oksbi",
+    "date": "Today, 5:26 AM",
     "bank": "xxxx 0905",
     "bankname": "public/union.png",
     "upiTxnId": "197794715115",
-    "comment": "UPI",
-    "fcId": "AXIFRC2f194b1879a16a9413473b0370czf"
+    "comment": "CH2025110505230300299",
+    "fcId": "CH2025110505230300299"
   },
   "transactions": [
-   { "initials": "SP", "title": "Paid To Satrupa Sharma", "amount": "- ₹30000", "time": "Today, 5:10 PM", "direction": "Paid from" },
+   { "initials": "MA", "title": "Paid To Mohmadfaizan Abdulkaiyum Sagri", "amount": "- ₹33000", "time": "Today, 5:26 AM", "direction": "Paid from" },
     
    { "initials": "UPI", "title": "Money Transferred To Bank", "amount": "- ₹1", "time": "31 Oct, 12:01 AM", "direction": "Paid from" },
    { "initials": "UPI", "title": "Money Added", "amount": "- ₹1", "time": "31 Oct, 11:53 AM", "direction": "Paid from" },
