@@ -5,18 +5,18 @@
     "upi": "6372747344@freecharge"
   },
   "txndetails": {
-    "receiverName": "Mohmadfaizan Abdulkaiyum Sagri",
-    "amount": "₹33000",
-    "upi": "faizanshaikh4276-5@oksbi",
-    "date": "Today, 5:26 AM",
+    "receiverName": "Mr Madhukar Vasantrao Jadhao",
+    "amount": "₹35000",
+    "upi": "XXXXXXXXXX7331@SBIN0000407.ifsc.npci",
+    "date": "Today, 9:28 AM",
     "bank": "xxxx 0905",
     "bankname": "public/union.png",
-    "upiTxnId": "197794715115",
-    "comment": "CH2025110505230300299",
-    "fcId": "CH2025110505230300299"
+    "upiTxnId": "579711491571",
+    "comment": "UPI",
+    "fcId": "AXIFRC2f1a8b1874a05a4953473b0370bca"
   },
   "transactions": [
-   { "initials": "MA", "title": "Paid To Mohmadfaizan Abdulkaiyum Sagri", "amount": "- ₹33000", "time": "Today, 5:26 AM", "direction": "Paid from" },
+   { "initials": "MM", "title": "Paid To Mr Madhukar Vasantrao Jadhao", "amount": "- ₹35000", "time": "Today, 9:28 AM", "direction": "Paid from" },
     
    { "initials": "UPI", "title": "Money Transferred To Bank", "amount": "- ₹1", "time": "31 Oct, 12:01 AM", "direction": "Paid from" },
    { "initials": "UPI", "title": "Money Added", "amount": "- ₹1", "time": "31 Oct, 11:53 AM", "direction": "Paid from" },
